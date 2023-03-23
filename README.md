@@ -1,7 +1,6 @@
  <img src="https://media.giphy.com/media/pWhWtKdqwOAco/giphy.gif" title="Java" alt="Java" width="1200" height="200"/>&nbsp;
 
 <div id="badges" align="center">
-  
   <a href="https://github.com/i-suslova">
   <img src="https://komarev.com/ghpvc/?username=i-suslova&style=flat-square&color=0000FF&style=for-the-badge" alt="profile views"/>
   </a>
@@ -18,10 +17,10 @@
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 
-![](https://hit.yhype.me/github/profile?user_id=117917258)
 <!--
 **i-suslova/i-suslova** is a ✨ _special_  repository because its `README.md` (this file) appears on your GitHub profile.
 
+![](https://hit.yhype.me/github/profile?user_id=117917258)
 
 
 
