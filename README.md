@@ -1,8 +1,5 @@
-[![MasterHead](https://media.giphy.com/media/aRJMSoJmD037wpHSOF/giphy.gif)]
+ <img src="https://media.giphy.com/media/pWhWtKdqwOAco/giphy.gif" title="Java" alt="Java" width="1200" height="200"/>&nbsp;
 
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/69jy5FNbwGAZH8FSHN/giphy.gif" width="100"/> 
-</div>
 <div id="badges" align="center">
   
   <a href="https://github.com/i-suslova">
