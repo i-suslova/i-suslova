@@ -7,7 +7,8 @@
 </div>
 
 
- ### 🌱 в настоящее время я учусь <img src="https://cdn.glitch.global/371d6ff2-fab3-4306-971c-a2d175ffed45/svg%20yandex.svg?v=1679773983083" title="Java" alt="Java" width="180" height="60"/>&nbsp;
+ ### 🌱 в настоящее время я учусь 
+ <img src="https://cdn.glitch.global/371d6ff2-fab3-4306-971c-a2d175ffed45/svg%20yandex.svg?v=1679773983083" title="Java" alt="Java" width="180" height="60"/>&nbsp;
 
 ### :hammer_and_wrench: языки и инструменты :
 <div>
@@ -17,7 +18,7 @@
 </div>
 
 
- <img src="https://cdn.glitch.global/371d6ff2-fab3-4306-971c-a2d175ffed45/svg%20yandex.svg?v=1679773983083" title="Java" alt="Java" width="180" height="60"/>&nbsp;
+ 
 
 
 <!--
