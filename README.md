@@ -18,6 +18,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
+ <img style="display: block;-webkit-user-select: none;margin: auto;background-color: hsl(0, 0%, 90%);transition: background-color 300ms; width="40" height="40" src="https://camo.githubusercontent.com/e016b2b38e2fbb550ec4f1018434a66d8fe25a127850b5ee79123f6b5280cecd/68747470733a2f2f63646e2e69636f6e2d69636f6e732e636f6d2f69636f6e73322f323639392f504e472f3531322f6769745f73636d5f6c6f676f5f69636f6e5f3137303039362e706e67">
 </div>
 
 
