@@ -9,7 +9,7 @@
   </a>
 </div>
 
-### :hammer_and_wrench: 
+
 <div>
 <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&amp;logo=html5&amp;logoColor=white" style="max-width: 100%;" alt="html5" >
 <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&amp;logo=javascript&amp;logoColor=%23F7DF1E" style="max-width: 100%;" alt="javascript">
